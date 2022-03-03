@@ -39,11 +39,11 @@ main {
 }
 /* main styles */
 main .title__card {
-  margin: 20px 20px 15px;
-  font-size: 0.9rem;
+  margin: 20px 15px 15px;
+  font-size: 0.7rem;
 }
 
-main .title__card h2 {
+main .title__card h1 {
   color: var(--dark-blue);
 }
 
