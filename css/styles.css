@@ -34,7 +34,7 @@ main {
   display: grid;
   grid-template-rows: repeat(3, 0.35fr);
   text-align: center;
-  align-content: center;
+  padding-top: 15px;
   border-radius: 10px;
 }
 /* main styles */
